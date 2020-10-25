@@ -1,0 +1,7 @@
+sudo apt-get update
+
+sudo apt-get install tomcat7
+
+ubuntu@ip-172-31-21-148:~$ sudo apt-get install apache2
+ubuntu@ip-172-31-21-148:~$ sudo a2enmod proxy
+ubuntu@ip-172-31-21-148:~$ sudo a2enmod proxy_http
