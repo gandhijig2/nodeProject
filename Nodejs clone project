@@ -4,3 +4,6 @@ sudo apt install nodejs
 
 
 git clone https://github.com/gandhijig2/nodeProject.git
+
+
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
