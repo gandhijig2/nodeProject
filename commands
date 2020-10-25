@@ -1,0 +1,40 @@
+
+
+
+install express js packages
+------------------------------
+
+npm install express --save 
+
+
+install ejs
+_____________
+
+npm install ejs --save
+
+
+intall body parser
+_______________
+
+npm install body-parser --save 
+
+
+install mongoose packages
+-------------------------------
+
+npm install mongoose --save
+
+Create database
+----------------
+use todo
+
+
+create collection
+-----------------------
+db.createCollection("todos")
+
+insert data into collections
+__________________________
+db.todos.insert({name: "this is babu"})
+
+
