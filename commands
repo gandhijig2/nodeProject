@@ -1,4 +1,6 @@
+sudo apt-get install zip unzip
 
+unzip filename
 
 
 install express js packages
